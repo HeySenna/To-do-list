@@ -3,3 +3,4 @@ Dashboard
 Modal + Toasts
 Banco de dados - SQL
 
+![Demo](https://github.com/HeySenna/To-do-list/blob/main/docs/To-do-list.gif)
